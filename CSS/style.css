@@ -24,11 +24,6 @@
     --switch-bg-url: url(../img/sun.svg);
 }
 
-body {
-    height: 100vh;
-    background: var(--bg-url) no-repeat top center/cover;
-}
-
 body * {
     font-family: 'Inter', sans-serif;
     color: var(--text-color);
